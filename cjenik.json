@@ -1,0 +1,102 @@
+{
+  "materijali": [
+    {
+      "sifra": "W960 ST7",
+      "naziv": "W960 ST7 Klasična bijela 18mm",
+      "cijena_eur_po_m2": 15.69
+    },
+    {
+      "sifra": "W1000 ST9",
+      "naziv": "W1000 ST9 Bijela premium 18mm",
+      "cijena_eur_po_m2": 20.68
+    },
+    {
+      "sifra": "U156 ST9",
+      "naziv": "Pješčano bež 18mm",
+      "cijena_eur_po_m2": 16.82
+    },
+    {
+      "sifra": "U702 ST9",
+      "naziv": "U702 ST9 Kašmir siva 18mm",
+      "cijena_eur_po_m2": 18.49
+    },
+    {
+      "sifra": "F416 ST10",
+      "naziv": "F416 ST10 Laneno bež 18mm",
+      "cijena_eur_po_m2": 22.6
+    },
+    {
+      "sifra": "HDF-001",
+      "naziv": "HDF za leđa ormarića",
+      "cijena_eur_po_m2": 5.58
+    }
+  ],
+  "abs_trake": [
+    {
+      "sifra": "W960 ST7-ABS",
+      "naziv": "W960 ST7 Klasična bijela 0,8/23mm",
+      "cijena_eur_po_m": 0.46
+    },
+    {
+      "sifra": "W1000 ST9-ABS",
+      "naziv": "W1000 ST9 Bijela premium 0,8/23mm",
+      "cijena_eur_po_m": 0.86
+    },
+    {
+      "sifra": "U156 ST9-ABS",
+      "naziv": "Pješčano bež 0,8/23mm",
+      "cijena_eur_po_m": 0.98
+    },
+    {
+      "sifra": "U702 ST9-ABS",
+      "naziv": "U702 ST9 Kašmir siva 0,8/23mm",
+      "cijena_eur_po_m": 0.86
+    },
+    {
+      "sifra": "F416 ST10-ABS",
+      "naziv": "F416 ST10 Laneno bež 0,8/23mm",
+      "cijena_eur_po_m": 0.98
+    }
+  ],
+  "materijali_fronta": [
+    {
+      "sifra": "FR-W1000",
+      "naziv": "Fronta Bijela premium 18mm",
+      "cijena_eur_po_m2": 23.5
+    },
+    {
+      "sifra": "FR-U702",
+      "naziv": "Fronta Kašmir siva 18mm",
+      "cijena_eur_po_m2": 21.8
+    }
+  ],
+  "abs_trake_fronta": [
+    {
+      "sifra": "FR-W1000-ABS",
+      "naziv": "Fronta Bijela premium 0,8/23mm",
+      "cijena_eur_po_m": 0.95
+    },
+    {
+      "sifra": "FR-U702-ABS",
+      "naziv": "Fronta Kašmir siva 0,8/23mm",
+      "cijena_eur_po_m": 0.9
+    }
+  ],
+  "usluge": [
+    {
+      "sifra": "REZ-10-18",
+      "naziv": "Usluga rezanja iverala 10-18mm",
+      "cijena_eur_po_m": 0.44
+    },
+    {
+      "sifra": "REZ-OSTALI",
+      "naziv": "Usluga rezanja 10-18mm ostali dekori",
+      "cijena_eur_po_m": 0.7
+    },
+    {
+      "sifra": "KANT-08",
+      "naziv": "Usluga kantiranja do 20mm, 0,8mm traka",
+      "cijena_eur_po_m": 0.92
+    }
+  ]
+}
